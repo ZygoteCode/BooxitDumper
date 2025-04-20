@@ -1,0 +1,10 @@
+C:\Users\bolog\Desktop\BooxitDumper\bin\Release\BooxitDumper.exe.config
+C:\Users\bolog\Desktop\BooxitDumper\bin\Release\BooxitDumper.exe
+C:\Users\bolog\Desktop\BooxitDumper\bin\Release\BooxitDumper.pdb
+C:\Users\bolog\Desktop\BooxitDumper\obj\Release\BooxitDumper.csproj.AssemblyReference.cache
+C:\Users\bolog\Desktop\BooxitDumper\obj\Release\BooxitDumper.csproj.CoreCompileInputs.cache
+C:\Users\bolog\Desktop\BooxitDumper\obj\Release\BooxitDumper.exe
+C:\Users\bolog\Desktop\BooxitDumper\obj\Release\BooxitDumper.pdb
+C:\Users\bolog\Desktop\BooxitDumper\bin\Release\Newtonsoft.Json.dll
+C:\Users\bolog\Desktop\BooxitDumper\bin\Release\Newtonsoft.Json.xml
+C:\Users\bolog\Desktop\BooxitDumper\obj\Release\BooxitDu.D88EAE8E.Up2Date

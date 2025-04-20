@@ -1,0 +1,7 @@
+C:\Users\bolog\Desktop\BooxitDumper\bin\Debug\BooxitDumper.exe.config
+C:\Users\bolog\Desktop\BooxitDumper\bin\Debug\BooxitDumper.exe
+C:\Users\bolog\Desktop\BooxitDumper\bin\Debug\BooxitDumper.pdb
+C:\Users\bolog\Desktop\BooxitDumper\obj\Debug\BooxitDumper.csproj.AssemblyReference.cache
+C:\Users\bolog\Desktop\BooxitDumper\obj\Debug\BooxitDumper.csproj.CoreCompileInputs.cache
+C:\Users\bolog\Desktop\BooxitDumper\obj\Debug\BooxitDumper.exe
+C:\Users\bolog\Desktop\BooxitDumper\obj\Debug\BooxitDumper.pdb
